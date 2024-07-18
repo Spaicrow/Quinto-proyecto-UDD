@@ -8,6 +8,7 @@ function App() {
        ">
         <Pokemons/>
         <Asaid />
+        <ModalPokemon />
       </main>
     </section>
   );
